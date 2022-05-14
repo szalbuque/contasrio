@@ -1,2 +1,3 @@
 # contasrio
-analisa as contas do município do Rio de Janeiro
+## Compara as datas de empenho, liquidação e pagamento
+### Para estimar o tempo médio entre cada evento
